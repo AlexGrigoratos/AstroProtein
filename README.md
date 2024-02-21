@@ -8,4 +8,5 @@
 ### <p align="center">PRODUCTS PAGE:</p>
 ![Captur7e](https://github.com/AlexGrigoratos/AstroProtein/assets/159578904/ea0025dd-d4ad-49e4-8fbd-3084d84caf4c)
 ### <p align="center">DROPDOWN MENU:</p>
-![Uploading C555apture.PNG…]()
+![C555apture](https://github.com/AlexGrigoratos/AstroProtein/assets/159578904/4fdfb152-f299-41f2-872d-2e5384fa58e9)
+
